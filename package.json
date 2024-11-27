@@ -1,7 +1,6 @@
 {
   "name": "mi-portafolio",
   "version": "1.0.0",
-  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +10,7 @@
   "dependencies": {
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "next": "15.0.3",
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.292.0",
     "@radix-ui/react-slot": "^1.0.2",
